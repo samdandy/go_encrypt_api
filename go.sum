@@ -1,2 +1,4 @@
 github.com/go-chi/chi v1.5.5 h1:vOB/HbEMt9QqBqErz07QehcOKHaWFtuj87tTDVz2qXE=
 github.com/go-chi/chi v1.5.5/go.mod h1:C9JqLr3tIYjDOZpzn+BCuxY8z8vmca43EeMgyZt7irw=
+github.com/samdandy/go_crypto v0.0.0-20251130040541-59ede60283b4 h1:qF9ocwY8az6jXsxlA9JggUJ0ZF1yJ9K7s1mAHvufdw4=
+github.com/samdandy/go_crypto v0.0.0-20251130040541-59ede60283b4/go.mod h1:f7MuePkHDTpU+NS5WC+7Qql/PmyWmj44aZ7s/musTas=
