@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/samdandy/go_crypto/utils"
+	"github.com/samdandy/go_encrypt_api/utils"
 )
 
 func GenerateKeyPairHandler(w http.ResponseWriter, r *http.Request) {
